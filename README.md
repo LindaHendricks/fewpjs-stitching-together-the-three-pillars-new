@@ -48,8 +48,7 @@ working as it should, the action looks like this:
 Go ahead and open up `index.html` in your browser. To do this, make sure you're
 in the directory where this README lives in your terminal. If you're on a Mac,
 run `open index.html` and if you're using Windows, run `explorer.exe index.html`. If
-that doesn't work, you can open the file directly from Chrome. Choose `Open
-file...` from the `File` menu, navigate to the directory where this README is
+that doesn't work, you can open the file directly from Chrome. Choose `Open file...` from the `File` menu, navigate to the directory where this README is
 located, and open the file.
 
 Your experience will look something like this:
